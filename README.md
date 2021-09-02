@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bye there 👋
 
 <!--
 **beomsookim96/beomsookim96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
