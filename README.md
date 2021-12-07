@@ -1,4 +1,4 @@
-### Hi 👋
+### Beomsoo's Git 👋
 
 <div align="center">
  
