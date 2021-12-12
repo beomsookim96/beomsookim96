@@ -1,6 +1,5 @@
 <div align="center">
-Beomsoo's Git 👋
-==
+ <h1>Beomsoo's Git 👋</h1>
 </div>
 
 <br>
