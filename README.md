@@ -1,7 +1,8 @@
 <div align="center">
 ###Beomsoo's Git 👋
-<br>
 </div>
+
+<br>
 
 <div align="center">
  
